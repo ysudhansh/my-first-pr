@@ -1,13 +1,13 @@
 This repository is for beginners to make their first pull request and for anyone to create pull requests during Hacktoberfest 2018. Any PRs outside of hacktoberfest will still be considered, but may not count towards your hacktoberfest contributions.
 
-###Instructions:
+### Instructions:
 
 1. Fork the repository
 2. Add your username to CONTRIBUTORS.md in format:
 	`-[@username](https://github.com/username)`
 3. Make a PR via github
 
-##Contributors:
+## Contributors:
 
 -[@ojaswa1942](https://github.com/ojaswa1942)
 
