@@ -3,7 +3,8 @@ This repository is for beginners to make their first pull request and for anyone
 ### Instructions:
 
 1. Fork the repository
-2. Add your username to Contributers section in README.md in format:
+
+2. Append your username to the Contributers section in this file in format:
 	`- [@username](https://github.com/username)`
 3. Make a PR via github
 
