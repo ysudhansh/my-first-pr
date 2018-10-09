@@ -21,6 +21,8 @@
 
 - [@visheshkl](https://github.com/visheshkl)
 
+- [@verdantfire](https://github.com/verdantfire)
+
 - [@udit1707](https://github.com/udit1707)
 
 - [@ss3239891](https://github.com/ss3239891)
