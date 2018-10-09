@@ -19,4 +19,9 @@ This repository is for beginners to make their first pull request and for anyone
 - [@ji-kun](https://github.com/ji-kun)
 
 - [@visheshkl](https://github.com/visheshkl)
--[@sonivishal9708](https://github.com/sonivishal9708)
+
+- [@sonivishal9708](https://github.com/sonivishal9708)
+
+- [@blair-d](https://github.com/blair-d)
+
+- [@JesusChrist0](https://github.com/jesuschrist0)
