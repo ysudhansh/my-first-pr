@@ -1,5 +1,6 @@
  This repository is for beginners to make their first pull request and for anyone to create pull requests during Hacktoberfest 2018. Any PRs outside of hacktoberfest will still be considered, but may not count towards your hacktoberfest contributions.
 
+
 ### Instructions:
 
 1. Fork the repository
@@ -19,6 +20,8 @@
 - [@ji-kun](https://github.com/ji-kun)
 
 - [@visheshkl](https://github.com/visheshkl)
+
+- [@sagar22091998](https://github.com/sagar22091998)
 
 - [@Medhavi-16](https://github.com/Medhavi-16)
 
