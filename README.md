@@ -21,3 +21,5 @@ This repository is for beginners to make their first pull request and for anyone
 - [@visheshkl](https://github.com/visheshkl)
 
 - [@blair-d](https://github.com/blair-d)
+
+- [@JesusChrist0](https://github.com/jesuschrist0)
