@@ -21,6 +21,8 @@
 
 - [@visheshkl](https://github.com/visheshkl)
 
+- [@darkhorse07](https://github.com/darkhorse)
+
 - [@bigshotsam](https://github.com/bigshotsam)
 
 - [@verdantfire](https://github.com/verdantfire)
