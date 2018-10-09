@@ -21,6 +21,10 @@
 
 - [@visheshkl](https://github.com/visheshkl)
 
+- [@JesusChrist0](https://github.com/jesuschrist0)
+
+- [@blair-d](https://github.com/blair-d)
+
 - [@balu14012001](https://github.com/BALAJIRAO676)
 
 - [@ashraygupta001](http://github.com/ashraygupta001)
@@ -73,6 +77,3 @@
 
 - [@sonivishal9708](https://github.com/sonivishal9708)
 
-- [@blair-d](https://github.com/blair-d)
-
-- [@JesusChrist0](https://github.com/jesuschrist0)
