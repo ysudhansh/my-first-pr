@@ -5,7 +5,7 @@ This repository is for beginners to make their first pull request and for anyone
 1. Fork the repository
 
 2. Append your username to the Contributers section in this file in format:
-	`- [@DoublexAA](https://github.com/username)`
+	`- [@username](https://github.com/username)`
 3. Make a PR via github
 
 ## Contributors:
@@ -19,3 +19,5 @@ This repository is for beginners to make their first pull request and for anyone
 - [@ji-kun](https://github.com/ji-kun)
 
 - [@visheshkl](https://github.com/visheshkl)
+
+- [@DoublexAA](https://github.com/DoublexAA)
