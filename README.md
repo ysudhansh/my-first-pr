@@ -20,6 +20,8 @@
 
 - [@visheshkl](https://github.com/visheshkl)
 
+- [@DoublexAA](https://github.com/DoublexAA)
+
 - [@kamalgarg28](https://github.com/kamalgarg28)
 
 - [@bitrish](https://github.com/bitrish)
@@ -35,4 +37,3 @@
 - [@blair-d](https://github.com/blair-d)
 
 - [@JesusChrist0](https://github.com/jesuschrist0)
-
