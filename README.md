@@ -1,4 +1,4 @@
-This repository is for beginners to make their first pull request and for anyone to create pull requests during Hacktoberfest 2018. Any PRs outside of hacktoberfest will still be considered, but may not count towards your hacktoberfest contributions.
+ This repository is for beginners to make their first pull request and for anyone to create pull requests during Hacktoberfest 2018. Any PRs outside of hacktoberfest will still be considered, but may not count towards your hacktoberfest contributions.
 
 ### Instructions:
 
@@ -19,6 +19,8 @@ This repository is for beginners to make their first pull request and for anyone
 - [@ji-kun](https://github.com/ji-kun)
 
 - [@visheshkl](https://github.com/visheshkl)
+
+- [@bitrish](https://github.com/bitrish)
 
 - [@GunaShekar02](https://github.com/GunaShekar02)
 
