@@ -20,6 +20,8 @@ This repository is for beginners to make their first pull request and for anyone
 
 - [@visheshkl](https://github.com/visheshkl)
 
+- [@GunaShekar02](https://github.com/GunaShekar02)
+
 - [@MehulJain-831](https://github.com/MehulJain-831)
 
 - [@sayantanbanerjee16](https://github.com/sayantanbanerjee16)
