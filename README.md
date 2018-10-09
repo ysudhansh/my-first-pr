@@ -20,4 +20,4 @@ This repository is for beginners to make their first pull request and for anyone
 
 - [@visheshkl](https://github.com/visheshkl)
 
--[@kamal.garg1024](https://github.com/kamal.garg1024)
+- [@kamal.garg1024](https://github.com/kamal.garg1024)
