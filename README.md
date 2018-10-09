@@ -20,6 +20,8 @@
 
 - [@visheshkl](https://github.com/visheshkl)
 
+- [@sakrock](https://github.com/sakrock)
+
 - [@DoublexAA](https://github.com/DoublexAA)
 
 - [@kamalgarg28](https://github.com/kamalgarg28)
