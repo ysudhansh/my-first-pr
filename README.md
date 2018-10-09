@@ -1,4 +1,5 @@
-This repository is for beginners to make their first pull request and for anyone to create pull requests during Hacktoberfest 2018. Any PRs outside of hacktoberfest will still be considered, but may not count towards your hacktoberfest contributions.
+ This repository is for beginners to make their first pull request and for anyone to create pull requests during Hacktoberfest 2018. Any PRs outside of hacktoberfest will still be considered, but may not count towards your hacktoberfest contributions.
+
 
 ### Instructions:
 
@@ -22,5 +23,48 @@ This repository is for beginners to make their first pull request and for anyone
 
 - [@sar99](https://github.com/sar99)
 
+- [@Fdgod10](https://github.com/Fdgod10)
 
+- [@darkhorse07](https://github.com/darkhorse)
 
+- [@bigshotsam](https://github.com/bigshotsam)
+
+- [@verdantfire](https://github.com/verdantfire)
+
+- [@udit1707](https://github.com/udit1707)
+
+- [@ss3239891](https://github.com/ss3239891)
+
+- [@xzaviourr](https://github.com/xzaviourr)
+
+- [@sagar22091998](https://github.com/sagar22091998)
+
+- [@Medhavi-16](https://github.com/Medhavi-16)
+
+- [@shivam2191](https://github.com/shivam2191)
+
+- [@pradnyesh123](https://github.com/pradnyesh123)
+
+- [@rahulm499](https://github.com/rahulm499)
+
+- [@bipinpathak](https://github.com/bipinpathak)
+
+- [@sakrock](https://github.com/sakrock)
+
+- [@DoublexAA](https://github.com/DoublexAA)
+
+- [@kamalgarg28](https://github.com/kamalgarg28)
+
+- [@bitrish](https://github.com/bitrish)
+
+- [@GunaShekar02](https://github.com/GunaShekar02)
+
+- [@MehulJain-831](https://github.com/MehulJain-831)
+
+- [@sayantanbanerjee16](https://github.com/sayantanbanerjee16)
+
+- [@sonivishal9708](https://github.com/sonivishal9708)
+
+- [@blair-d](https://github.com/blair-d)
+
+- [@JesusChrist0](https://github.com/jesuschrist0)
