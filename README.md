@@ -18,4 +18,4 @@ This repository is for beginners to make their first pull request and for anyone
 
 - [@ji-kun](https://github.com/ji-kun)
 
-- [@visheshkl](https://github.com/visheshkl)
+- [@Striker](https://github.com/Striker)
