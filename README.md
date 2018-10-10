@@ -2,11 +2,11 @@ This repository is for beginners to make their first pull request and for anyone
 
 ### Instructions:
 
-1. Fork the repository
+1. Fork the repository.
 
-2. Append your username to the Contributers section in this file in format:
+2. Append your username to the Contributers Section in this file in the following format:
 	`- [@username](https://github.com/username)`
-3. Make a PR via github
+3. Make a Pull Request (PR) via github.
 
 ## Contributors:
 
