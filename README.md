@@ -84,3 +84,4 @@
 - [@rutvijraut](https://github.com/rutvijraut)
 
 - [@TheSecretWolf](https://github.com/TheSecretWolf)
+- [@AnimatedAnand](https://github.com/AnimatedAnand)
