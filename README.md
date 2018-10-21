@@ -84,3 +84,5 @@
 - [@rutvijraut](https://github.com/rutvijraut)
 
 - [@TheSecretWolf](https://github.com/TheSecretWolf)
+
+- [@madhavik0512](https://github.com/madhavik0512)
