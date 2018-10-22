@@ -86,3 +86,5 @@
 - [@TheSecretWolf](https://github.com/TheSecretWolf)
 
 - [@madhavik0512](https://github.com/madhavik0512)
+
+- [@AnimatedAnand](https://github.com/AnimatedAnand)
