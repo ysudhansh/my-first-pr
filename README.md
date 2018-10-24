@@ -21,6 +21,8 @@
 
 - [@visheshkl](https://github.com/visheshkl)
 
+- [@rushyataksande](https://github.com/rushyataksande)
+
 - [@JesusChrist0](https://github.com/jesuschrist0)
 
 - [@blair-d](https://github.com/blair-d)
