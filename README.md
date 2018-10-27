@@ -23,6 +23,8 @@
 
 - [@rushyataksande](https://github.com/rushyataksande)
 
+- [@pankajgoyal1](https://github.com/pankajgoyal1)
+
 - [@JesusChrist0](https://github.com/jesuschrist0)
 
 - [@blair-d](https://github.com/blair-d)
